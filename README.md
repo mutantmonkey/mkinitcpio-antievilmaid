@@ -6,6 +6,11 @@ on Arch Linux and other distributions that build their initramfs using
 mkinitcpio. It is essentially a port of the Dracut module by Invisible Things
 Lab to mkinitcpio.
 
+Prerequisites
+-------------
+* [mkinitcpio](https://wiki.archlinux.org/index.php/Mkinitcpio)
+* [TrouSerS](http://trousers.sourceforge.net/) TPM stack
+
 Usage
 -----
 1. Prepare a USB stick using the [Anti Evil Maid](http://theinvisiblethings.blogspot.com/2011/09/anti-evil-maid.html) utility.
