@@ -1,10 +1,10 @@
 # Maintainer: mutantmonkey <aur@mutantmonkey.in>
 pkgname=mkinitcpio-antievilmaid
 pkgver=0.1
-pkgrel=1
+pkgrel=2
 pkgdesc="mkinitcpio hook to enable Anti Evil Maid support."
 arch=('i686' 'x86_64')
-url=""
+url="https://github.com/mutantmonkey/mkinitcpio-antievilmaid"
 license=('GPL')
 depends=('mkinitcpio' 'trousers')
 optdepends=("antievilmaid: Anti Evil Maid installation script")
